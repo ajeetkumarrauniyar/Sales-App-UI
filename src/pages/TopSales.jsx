@@ -33,6 +33,27 @@ const TopSales = () => {
                 <td>4</td>
                 <td>7720</td>
               </tr>
+              <tr>
+                <th scope="row">3</th>
+                <td>MS0003</td>
+                <td>RBO 1 LT PCH</td>
+                <td>2</td>
+                <td>5500</td>
+              </tr>
+              <tr>
+                <th scope="row">4</th>
+                <td>MS0004</td>
+                <td>Sunflower Oil 1 LT PCH</td>
+                <td>1</td>
+                <td>4000</td>
+              </tr>
+              <tr>
+                <th scope="row">5</th>
+                <td>MS0005</td>
+                <td>Coconut Oil 1 LT PCH</td>
+                <td>2</td>
+                <td>5900</td>
+              </tr>
             </tbody>
           </table>
         </div>
